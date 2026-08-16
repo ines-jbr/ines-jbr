@@ -1,4 +1,7 @@
 ## Hi there 👋
+## 🛠️ Technologies & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,symfony,python,cpp,c,mysql,git,github,docker,linux)](https://skillicons.dev)
 
 <!--
 **ines-jbr/ines-jbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
